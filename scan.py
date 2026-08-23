@@ -1,0 +1,1 @@
+def scan(h, p): return True
